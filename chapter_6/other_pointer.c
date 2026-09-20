@@ -7,6 +7,6 @@ int main()
 
     float k = 5.354;
     float* k1 = &k;
-    printf("The value of address j is %p\n", &i);
+    printf("The output of address j is %p\n", &i);
     return 0;
 }
